@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 22 Sep 2013 08:22:27 +0000", 
+  "link": "http://www.ifanr.com/news/350158?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "根据 Forbes 报道，一名网友发现了一个新的 iOS7 安全漏洞：在密码锁屏状态下，点击“紧急呼叫”，输入任意号码，然后不停地快速点击“呼叫”按钮直至手机出现苹果 logo，之后电话就会成功地拨打出去。 Forbes 作者 Andy Greenberg 测试了手中的 iPhone 5s 和一些旧款 iPhone，结果上述漏洞在这些设备上均真实存在。此外，Greenberg 表示在同一部设备上第二次激发漏洞需要耗时一分钟以上。 Mashable 测试了两部运行 iOS 7 的 iPhone 5，同样证实了上述漏洞。但是这一漏洞并未出现在搭载 iOS 7.0.1（出货自带）的 iPhone 5s 上。 爱范儿作者用了联通 iPhone 5 进行测试，最终成功地拨出电话。测试过程中虽出现苹果 logo，不过并非系统崩溃，有别于“白苹果”。虽然能利用这一漏洞拨出电话，但依然无法进入手机桌面。 目前苹果已表示将在未来的系统更新中修复上述漏洞。 &#160; 题图来自 uncrate<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/350158/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/350158/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/350158/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/350158/a2t.img\" width=\"1\" /><a href=\"http://126.am/3Ppe70\">\n                    <img src=\"http://cdn.ifanr.cn/wp-content/uploads/2013/09/爱范儿RSS广告位投放素材609-150-1m.jpg\" />\n                </a><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/news/350158\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/news/350158#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "iOS 7 曝安全漏洞：锁屏时可拔通任意电话"
+ }
+]
