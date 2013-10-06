@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 06 Oct 2013 02:36:28 +0000", 
+  "link": "http://www.ifanr.com/356490?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "经过漫长的等待，苹果的最新版桌面系统 OS X 10.9 Mavericks 终于在近日发布了 GM 版本。根据以往的经验，如无太大意外 GM 版本即正式版本，以此版本为基础进行评测，有较大参考价值。 本评测文章在 1 天正常使用 OS X 10.9 Mavericks 后完成，无法覆盖所有体验细节，仅就系统的重点改进部分进行评测说明。 安装的几点说明 可从 OS X 10.8 Mountain Lion 直接无痛升级，无需抹盘。 如需制作安装盘，注意 OS X 10.9 的制作方法与以往有所不同，具体步骤为： 显示系统中的隐藏文件。 使用系统自带的磁盘工具，将 InstallESD.dmg 内的 BaseSystem.dmg 恢复到准备好的空白 U 盘（或光盘）中。 打开恢复完成的 U 盘，删除 System/Installation 路径内的 Packages 文件。 将 InstallESD.dmg 盘中的 Packages 文件夹复制到 U 盘 System/Installation 路径处。 [...]<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/356490/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/356490/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/356490/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/356490/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/356490\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/356490#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "OS X 10.9 Mavericks GM 版体验报告：更好用，略匆忙"
+ }
+]
