@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 08 Nov 2013 16:49:54 +0000", 
+  "link": "http://www.ifanr.com/news/370778?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "随着 Chrome 浏览器越来越流行，功能越来越丰富，恶意软件也盯上了它，许多 Windows 平台的 Chrome 用户向 Google 反映说他们的浏览器设置被篡改，现在 Google 拿出了他们的解决方案。 根据 TechCrunch 的报道， Google 的办法可谓简单粗暴行之有效——从明年一月起 Windows 平台的 Chrome 浏览器将只能安装网络商店（ Chrome Web Store ）中的应用。 这是因为 Google 发现绝大多数恶意扩展插件都来自商店外，安全性没有保障，于是 Chrome 团队决定直接关闭安装非商店插件的功能。 当然如果用户们愿意的话，还是可以安装非商店插件的，需要做的只是把组策略的设置调成“强制安装”扩展程序。 所以开发者们仍然可以测试自己的插件，但最终的插件都要挪到 Chrome Web Store 中。这对他们的影响应该不大，因为大多数开发者可能都已经在使用 Web Store 了，再说技术宅们挪一下老巢也不会有多难。或许最大的“困难”，就是开发者们需要付 5 美元的 Web Store 注册费了。 &#160; 题图来自 bing、插图来自 inewdo<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/370778/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/370778/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/370778/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/370778/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/news/370778\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/news/370778#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "拒绝恶意软件： Win 版 Chrome 将只能从网络商店安装应用"
+ }
+]
