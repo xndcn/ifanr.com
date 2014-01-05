@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 05 Jan 2014 03:58:32 +0000", 
+  "link": "http://www.ifanr.com/393357?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "苹果收购了独立应用开发公司 SnappyLabs，知情人对 TechCrunch 作者约什·康斯汀（Josh Constine）说。SnappyLabs 是由开发者 John Papandriopoulos 独自创立的一家图片成像公司，目前只有 SnappyCam 一款产品。 iOS 7 为 iPhone 带来了连拍功能，但它的“快速连拍”能力依旧非常有限——iPhone 5s 每秒只能拍摄 10 张照片，老款 iPhone 每秒只能拍摄 3 张。而在 iOS 7 之前，iPhone 的快速连拍甚至只能借助第三方应用来实现。 SnappyCam 就是其中一款。它可以在 iPhone 上实现每秒拍摄 20 张 800 万像素的照片，同时不会损失成像质量，成像速度大约是原生相机的 4 倍。 SnappyCam 的开发者 John Papandriopoulos 是一名墨尔本大学的电子工程学博士。最近两年，他一直在潜心开发这款应用。SnappyCam 上架后，Papandriopoulos 曾经描述过如何实现应用的超高速拍照： “我们首先学习了离散余弦转换（DST）算法，然后基于部分研究成果开发了一套更适合 ARM NEON SIMD 协处理器指令集框架的算法。最终的算法包含了近 1 万行经过手工调试的汇编代码，以及 2 万多行低级别 C [&#8230;]<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/393357/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/393357/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/393357/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/393357/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/393357\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/393357#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "苹果收购 SnappyCam——期待一个成像更快的 iPhone 吧"
+ }
+]
