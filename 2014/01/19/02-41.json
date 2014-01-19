@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 19 Jan 2014 02:38:20 +0000", 
+  "link": "http://www.ifanr.com/396623?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "昨天在外媒上流行着这一篇文章：如何在一天之内，用 70 美元做出你自己的 Nest 恒温器？早前我们曾报道，Nest 被 Google 以 32 亿美元收购，而他们的名牌产品，市场价近 250 美元的智能恒温器，你只需要用 1 天加上 70 美元就可以实现。这也太夸张了吧？ 当你满怀激动地点击到文章内，发现是 Spark  Labs 团队使用自己的产品——Spark Core 和 自家的云端服务 Spark Cloud 搭建的一个外形近似 Nest 恒温器简陋原型机。所以其实这是一篇借势推广自己的产品的文章，但其他外媒还是心甘情愿地转载和报道——包括 Engadget，SlashGear，Geek，VentureBeat，Techmeme 等网站都为其传播。 这个 Spark 恒温器与 Nest 的外壳材质不一样，使用了便宜的木材和丙烯酸树脂，虽然不怎么好看，但是很容易切割和装置。内部装置了 Spark Core 处理器，还有一个温度湿度感应器，一盏 LED 灯，还有松下的 PIR 动作感应器，可以察觉是否有人在家。软件方面，恒温器用 JavaScript web app 来操控。所有的制作方式已经在 GitHub 上面共享。 踩着 Nest 被高价收购的话题点，Spark 很聪明地选取自己产品与事件的契合点，然后创造出这样一篇内容：Nest 恒温器 DIY。光是这样还不够，一篇能够有好传播的内容，必须“有用”，也就是对于一部分人有意义，结合 Spark [&#8230;]<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/396623/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/396623/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/396623/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/396623/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/396623\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/396623#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "70 美元，1 天时间即可 DIY Nest 恒温器？"
+ }
+]
