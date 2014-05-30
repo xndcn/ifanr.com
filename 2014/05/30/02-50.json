@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 30 May 2014 02:47:25 +0000", 
+  "link": "http://www.ifanr.com/422706?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "就目前而言，智能家居本质上是将一系列家电串联起来，由一个中枢平台控制，并由一端激活指令产生连锁反应，而激活指令通常是借助各种传感器发出的，但事实上，目前仍然缺少一套全面完整并行之有效的激活方案。如果不能做到完全自动化，或许可以采取折中的方案，比如加入人机交互的过程。 Homey 就是这样一款声控的智能家居平台，用户可以通过语音对 Homey 进行控制，实现简单的人机交流。但是与普通语音控制技术控制特定子集设备不同，Homey 可以控制家中大多数设备。由于 Homey 支持包括 Wi-Fi、蓝牙、NFC、nrf24l01+、Zigbee 以及红外通讯标准等八种无线传输方式，所以普通的电视、没有网络连接的音响甚至电脑都可以与之连接。当然，Nest、Hue 灯泡等智能家电产品同样支持。 比如当用户回到家，疲惫地坐在沙发上就可以通过与 Homey 对话关闭客厅的灯光，合上百叶窗帘，同时打开电视机。用户同样可以利用手机应用和 Homey 对话，控制家中的家电设备。 由于配备了先进的自然语音处理芯片，Homey 得以如同钢铁侠 Tony Startk 的虚拟助手 Jarvis 一样，能够理解自然语义，用户无需表达详尽的命令，就可以得到反馈，比如“调亮灯光”、“关门”、“开灯”这样的命令。 目前，Homey 已经登陆 Kickstarter，售价 310 美元，预计 2015 年 3 月出货。 题图来自：Digitaltrends<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/422706/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/422706/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/422706/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/422706/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/422706\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/422706#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "Homey 让你拥有钢铁侠的 Jarvis"
+ }
+]
