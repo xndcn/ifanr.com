@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 20 Jun 2014 02:14:21 +0000", 
+  "link": "http://www.ifanr.com/427375?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "编者注：本文作者为 Mac OS X 上快速启动应用 Manico 的开发者 TualatriX，对 iOS 8 和 OS X 10.10 中的 Extension 机制进行比较深入的讨论。 上周看完了 WWDC 14 的视频之《Creating Extensions for iOS and OS X》，差不多可以谈谈 Extensions 了。 我个人认为这是 iOS 和 OS X 发展至今非常具有里程碑意义的一处改进，甚至比 UI 上的改变重要的多。我想简单地谈一下为何 Extensions 这么重要。 Extension 是什么？ 首先我们得问，Extension 是什么？这里可能会有很多不同的解释。 一个很明显的例子是便是使用了相同术语的 Firefox 和 Chrome 的 Extension，这两大浏览器提供了非常丰富的 Extension 用于游览器本身以及增强 Web 浏览体验。确切地说，这里的 Exension 是一种 [&#8230;]<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/427375/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/427375/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/427375/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/427375/a2t.img\" width=\"1\" /><a href=\"http://www.huodongxing.com/event/8234208888800\">\n                    <img src=\"http://cdn.ifanr.cn/wp-content/uploads/2014/06/next-01.png\" />\n                </a><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/427375\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/427375#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "【iShout】谈谈 iOS 8 和 OS X 10.10 的 Extension"
+ }
+]
