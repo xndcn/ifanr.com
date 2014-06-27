@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 27 Jun 2014 11:54:25 +0000", 
+  "link": "http://www.ifanr.com/429179?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "如何更方便的了解天气？古时候我们看天预测，有了电视之后每天守着 7 点半的天气预报，而现在只需要掏出手机随时随地点开天气应用即可，不过我们仍然想着省去掏手机这一步，比如直接把天气放在桌面上可好？ 意大利 Fabrica 工作室就做了一个新颖的方案 Patch of Sky，这是一款半透明的设备，由圆形和半圆形的镜面以及底座组成，镜面可变换颜色，不同的颜色代表不同的天气，比如渐变的黄色代表夕阳，蓝色代表晴天，白色代表大雾。 它能显示气象中 11 种常见的气候，分别对应不同的色彩动画，让天气显示也能变得更优雅和真实。这种拟物化的设计不仅让信息更快的呈现，也能拉近了科技与现实的距离。 至于里面的结构，Patch of Sky 是采用 Arduino 开源电子方案，可连接网络，通过与用户的 Facebook 账号连接，利用 Facebook 里的地理位置来调用天气数据，从而显示当地天气。 不过比较不好的一点是，它需要外接电源，也就无法随意摆放，希望下一版的设计可以解决这个问题。 Patch of Sky 方便了我们观看天气，却也会减少我们看窗外的次数，还好看起来它的展示意义更大于功能，因为它的数据未必百分百准确，只是它的展示画面过于优雅，让人忍不住去查看。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/429179/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/429179/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/429179/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/429179/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/429179\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/429179#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "Patch of Sky：让你优雅的查看天气"
+ }
+]
