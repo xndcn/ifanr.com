@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 14 Dec 2014 09:54:09 +0000", 
+  "link": "http://www.ifanr.com/475962?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "2008 年，Google 地球向开发者推出了 API 接口，开发者可以使用 JavaScript 在浏览器内开发 3D 应用程序。但是，Google 决定关闭该接口，这个决定的理由显得有些无奈。 Google 地图的产品经理 Ken Hoetmer 在博客中表示，多年来，开发者借助 Google 地球的这一接口开发出了不少优秀的应用。 然而，它所使用使用的核心技术是 NPAPI 的插件框架（Netscape Plugin Application Programming Interface，即网景插件应用程序接口），最近，Chrome 和 Firefox 两大浏览器处于安全考虑，先后禁用了 NPAPI 插件，导致 API 无法使用。 另一方面， 接口对跨平台支持（尤其是移动设备上）的逐步减少，使得利用 Google 地球 API 来开发应用变得不再可行。 因此 Google 决定关闭该接口，按照 Google 的相关政策，它仍旧会保留一年，直至 2015 年 12 月 12 日关闭。 博文中表示，这一年期间，以下浏览器仍然支持 Google 地球的 API： 微软 Windows （包括 [&#8230;]<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/475962/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/475962/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/475962/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/475962/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/475962\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/475962#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "明年此时，Google 地球将关闭 API"
+ }
+]
