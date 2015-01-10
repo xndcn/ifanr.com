@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 10 Jan 2015 07:55:18 +0000", 
+  "link": "http://www.ifanr.com/482288?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "在沙滩上画几十米宽的画并非易事，你没法获得合适的视野来使得画比例正确，不过对于一台智能机器人来说，这非常简单。 迪士尼苏黎世研究所和苏黎世联邦理工学院共同开发的 Beachbot 就是这样一台机器人，它可以在海滩上画出巨幅的沙画，图案可以自定义，画笔是一个类似耙子的工具。 Beachbot 的外观十分萌，采用的是一个乌龟造型，它内置了一台计算机应有的配置，同时可以利用蜂窝数据上网，一个惯性测量单元，一台激光扫描仪。它的定位需要结合四个标杆，标杆位于画幅四角，相当于平面 X/Y 轴定位的原理，采用激光进行定位，精度可达毫米级别。 视频来自优酷 做这台机器人有几个难题要攻克，一是耙子的选择，他们测试了许多工具，最后采用的耙子每个齿都可以独立升降，这样画出的线条包括深浅；二是轮胎如何不会破坏画作，最终选择的是无胎印的轮胎，三是最关键的，把线条转化成路径，这就结合了激光定位的技术。 当传输一幅画给 Beachbot，它会提炼出线条，然后规划出最接近的路径，对于一些大的艺术作品，轨迹仍然需要手动调整，但是未来它也会实现全自动化，在线传图片，然后自动画画。 目前 Beachbot 绘制的是 10*10 米的画，理论上，它可以绘制出 1 公里长的画作，到时候就要从飞机上才能看清画的全貌，就像秘鲁的纳斯卡线条一样。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/482288/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/482288/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/482288/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/482288/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/482288\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/482288#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "迪士尼出品，萌萌的沙滩画机器人"
+ }
+]
