@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Jan 2015 10:15:51 +0000", 
+  "link": "http://www.ifanr.com/483569?utm_source=rss&utm_medium=rss&utm_campaign=", 
+  "description": "苹果艳照门、索尼被黑的阴霾还历历在目，信息安全已经成为世界性的严峻命题。如今黑客的攻击手段突飞猛进，不经意的小物件也许就暗藏玄机，分分钟黑了你的数据。 美国著名黑客、隐私安全研究专家 Samy Kamke 最近研究了一个“黑客利器”，名为 KeySweeper，是一个隐藏在 USB 充电器外表下的密码盗取工具。而这个小工具的成本仅仅有 10 美元。 Samy Kamke 在网上放出一段教程，展示了 KeySweeper 的工作原理。KeySweeper 的窃取目标非常明确：微软的无线键盘。它嗅探、解码、记录所有键盘键入的数据，然后保存在本地并通过 GSM 网络发出。 KeySweeper 基于 Web，自动侦测到用户输入的关键词、用户名、URL 信息，继而记录。它利用了无线键盘的部分漏洞，比如所有键盘 MAC 地址开头的字节是相同的。KeySweeper 通过这些漏洞，不需要键盘的 MAC 地址也能轻松解码附近无线键盘的键入内容。 更可怕的是，它能当做一个正常的 USB 接头使用，而且即使从插座上取下，它也可以利用内部的电池继续工作。 这一黑客工具仅仅针对微软的无线键盘，据 Venture Beat 报道，Samy Kamke 经过测试，KeySweeper 目前仅仅对部分微软键盘有效。 对此，微软的一位发言人表示，公司已经获知了相关报告，并着手调查。 KeySweeper 的发明者本意也许并不是让它投入市场，而是给大家提个醒：黑客盗取你的信息以及易如反掌，增强安全意识已经刻不容缓。<p>#欢迎关注爱范儿认证微信公众号：AppSolution（微信号：appsolution），发现新酷精华应用。</p><img border=\"0\" src=\"http://ifanr.feedsportal.com/c/33866/f/642084/s/483569/mf.gif\" /><br /><br /><a href=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/483569/a2.htm\"><img border=\"0\" src=\"http://da.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/483569/a2.img\" /></a><img border=\"0\" height=\"1\" src=\"http://pi.feedsportal.com/r/144540365956/u/362/f/642084/c/33866/s/483569/a2t.img\" width=\"1\" /><p>\n<a href=\"http://www.ifanr.com\">爱范儿 · Beats of Bits</a> |\n<a href=\"http://www.ifanr.com/483569\">原文链接</a> ·\n<a href=\"http://www.ifanr.com/483569#comments\">查看评论</a> ·\n<a href=\"http://www.weibo.com/ifanr\">新浪微博</a> ·\n<a href=\"http://www.ifanr.com/weixin\">微信订阅</a> ·\n<a href=\"http://bbs.ifanr.com/\">加入爱范社区！</a> \n</p>\n\n<br />\n<div style=\"text-align: center; border-top: 1px dotted #ccc;\">\n</div>", 
+  "title": "披着羊皮的狼！USB 充电器可能是黑客的眼睛"
+ }
+]
